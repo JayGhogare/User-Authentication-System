@@ -28,6 +28,7 @@ Password: 2008
 1. Open the project in VS Code
 2. Run the Python file
 3. Enter username and password when asked
+   
 
 ## 👨‍💻 Author
 Jay Ghogare
