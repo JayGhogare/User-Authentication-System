@@ -1,4 +1,4 @@
-Simple User Authentication System
+# 🔐 Simple User Authentication System
 
 A basic Python project that simulates a login system using username and password validation.
 
