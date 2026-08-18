@@ -6,7 +6,7 @@ A basic Python project that simulates a login system using username and password
 ## 📌 Features
 - Username verification
 - Password (PIN) authentication
-- Simple conditional logic
+- Simple conditional logic.
 - Beginner-friendly project.
 
 
